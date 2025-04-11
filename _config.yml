@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Cencen Liu (刘涔涔)"
-description              : "I am currently working toward the Ph.D. degree with the Laboratory of Intelligent Collaborative Computing, University of Electronic Science and Technology of China (UESTC) under the supervision of Prof. Guoming Lu. I received the M.E. degrees from the University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2024. I obtained my BS degree in Software Engineering from GZU(Guizhou University), Guiyang, China, in 2021. My research interests focus on computer vision and model compression, especially for lightweight deep image restoration, such as super-resolution."
+description              : "I am currently working toward the Ph.D. degree with the Laboratory of Intelligent Collaborative Computing, UESTC under the supervision of Prof. Guoming Lu."
 repository               : "liucencen54/liucencen54.github.io"
 google_scholar_stats_use_cdn : true
 
